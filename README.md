@@ -32,10 +32,10 @@ Website telah diuji dan responsif pada tiga breakpoint:
 ## 📸 Screenshot
 
 ### Tampilan Desktop
-![Desktop View](screenshot-desktop.png)
+![Desktop View]([Screenshot 2026-09-23 164422.png](https://1drv.ms/i/c/BFBBEBA44161DB92/IQAXDB-PrYkMTo3tVY13W0HrAcPFf2LuyBxFKSHiJp-TiUg?e=Rjwn4u))
 
 ### Tampilan Mobile
-![Mobile View](screenshot-mobile.png)
+![Mobile View]([C:\Users\gavin\OneDrive\Gambar\Screenshots](https://1drv.ms/i/c/BFBBEBA44161DB92/IQA91y0_320lSp13AsPiUnx0ASV8YFTG7E4DXpAT-lVuYjQ?e=ehRY5p))
 
 ## 🛠️ Teknologi yang Digunakan
 
