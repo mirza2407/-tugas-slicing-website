@@ -32,10 +32,10 @@ Website telah diuji dan responsif pada tiga breakpoint:
 ## 📸 Screenshot
 
 ### Tampilan Desktop
-![Desktop View]((https://1drv.ms/i/c/BFBBEBA44161DB92/IQAXDB-PrYkMTo3tVY13W0HrAcPFf2LuyBxFKSHiJp-TiUg?e=Rjwn4u))
+![Desktop View]([(https://1drv.ms/i/c/BFBBEBA44161DB92/IQAXDB-PrYkMTo3tVY13W0HrAcPFf2LuyBxFKSHiJp-TiUg?e=Rjwn4u)](https://1drv.ms/i/c/BFBBEBA44161DB92/IQAXDB-PrYkMTo3tVY13W0HrAcPFf2LuyBxFKSHiJp-TiUg?e=C58OcN))
 
 ### Tampilan Mobile
-![Mobile View]([C:\Users\gavin\OneDrive\Gambar\Screenshots](https://1drv.ms/i/c/BFBBEBA44161DB92/IQA91y0_320lSp13AsPiUnx0ASV8YFTG7E4DXpAT-lVuYjQ?e=ehRY5p))
+![Mobile View]([[C:\Users\gavin\OneDrive\Gambar\Screenshots](https://1drv.ms/i/c/BFBBEBA44161DB92/IQA91y0_320lSp13AsPiUnx0ASV8YFTG7E4DXpAT-lVuYjQ?e=ehRY5p)](https://1drv.ms/i/c/BFBBEBA44161DB92/IQA91y0_320lSp13AsPiUnx0ASV8YFTG7E4DXpAT-lVuYjQ?e=dV2i1f))
 
 ## 🛠️ Teknologi yang Digunakan
 
